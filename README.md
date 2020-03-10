@@ -1,4 +1,4 @@
-Projeto de Laboratórios de Informática 2 do TP 6.
+Projeto de Laboratórios de Informática 2 do TP 6.\n
 Com o número de grupo   
 Elementos do grupo:
   Andre Manuel da Costa Ferreira - a9321
